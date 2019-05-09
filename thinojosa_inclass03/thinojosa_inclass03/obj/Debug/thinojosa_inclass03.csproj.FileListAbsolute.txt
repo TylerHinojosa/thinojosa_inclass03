@@ -1,0 +1,7 @@
+E:\C#\thinojosa_inclass03\thinojosa_inclass03\thinojosa_inclass03\bin\Debug\thinojosa_inclass03.exe.config
+E:\C#\thinojosa_inclass03\thinojosa_inclass03\thinojosa_inclass03\bin\Debug\thinojosa_inclass03.exe
+E:\C#\thinojosa_inclass03\thinojosa_inclass03\thinojosa_inclass03\bin\Debug\thinojosa_inclass03.pdb
+E:\C#\thinojosa_inclass03\thinojosa_inclass03\thinojosa_inclass03\obj\Debug\thinojosa_inclass03.csprojAssemblyReference.cache
+E:\C#\thinojosa_inclass03\thinojosa_inclass03\thinojosa_inclass03\obj\Debug\thinojosa_inclass03.csproj.CoreCompileInputs.cache
+E:\C#\thinojosa_inclass03\thinojosa_inclass03\thinojosa_inclass03\obj\Debug\thinojosa_inclass03.exe
+E:\C#\thinojosa_inclass03\thinojosa_inclass03\thinojosa_inclass03\obj\Debug\thinojosa_inclass03.pdb
